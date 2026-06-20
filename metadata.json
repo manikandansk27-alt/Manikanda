@@ -1,0 +1,6 @@
+{
+  "name": "AI Video Editor",
+  "description": "A professional-grade video editing application featuring real-time AI auto-color grading, adjustable cinematic transition simulations, interactive timeline scrubbing, and Room-based project persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
